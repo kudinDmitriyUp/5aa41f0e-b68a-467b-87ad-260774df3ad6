@@ -51,7 +51,7 @@ export default function Home() {
           description="Experience luxury redefined with world-class amenities, exquisite dining, and unparalleled service in the heart of the city"
           buttons={[
             {
-              text: "Book Your Stay",
+              text: "Book Now - Limited Availability",
               href: "https://booking.com"
             },
             {
