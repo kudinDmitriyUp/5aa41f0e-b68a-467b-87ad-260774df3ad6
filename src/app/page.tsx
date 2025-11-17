@@ -268,7 +268,7 @@ export default function Home() {
         <ContactSplit
           tag="Reservations"
           title="Plan Your Perfect Stay"
-          description="Experience luxury redefined. Our reservations team is ready to create your personalized getaway with exclusive amenities and world-class service."
+          description="Get instant access to member rates up to 30% off standard pricing and exclusive luxury amenities with priority reservations"
           tagIcon={Calendar}
           imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T4ddGC7kKKMdLbBqUvMgbBzGM/uploaded-1763411883149-bi3iegc0.jpg"
           imageAlt="Hotel reception and lobby"
